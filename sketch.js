@@ -78,7 +78,7 @@ function draw(){
     background("orange");
     
 
-    text(mouseX+","+mouseY,600,100)
+    
 
     textSize(30)
     fill("yellow")
